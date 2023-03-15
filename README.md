@@ -5,4 +5,4 @@ Grade calculation web app for Yamagata University students.
 https://yous-lab.notion.site/GPA-GPS-0b0b23cebb4a4d50b4cae2bef682cff6
 
 ## Web App here.
-https://calc-academic-record.herokuapp.com
+https://youthesame-calc-academic-record-calc-academic-record-j7qmmg.streamlit.app/
